@@ -1,0 +1,27 @@
+[salman@etisalat-s3 CW1]$ tr 'o' 'E' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'oh' 'ET' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohq' 'ETA' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqb' 'ETAH' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbm' 'ETAHB' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmw' 'ETAHBW' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwa' 'ETAHBWS' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwaj' 'ETAHBWSI' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajp' 'ETAHBWSIL' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpl' 'ETAHBWSILR' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajplt' 'ETAHBWSILRC' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajplts' 'ETAHBWSILRCZ' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsr' 'ETAHBWSILRCZN' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrx' 'ETAHBWSILRCZNG' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxc' 'ETAHBWSILRCZNGD' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxcz' 'ETAHBWSILRCZNGDV' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxczv' 'ETAHBWSILRCZNGDVF' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxczve' 'ETAHBWSILRCZNGDVFU' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxczveg' 'ETAHBWSILRCZNGDVFUM' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxczvegk' 'ETAHBWSILRCZNGDVFUMO' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxczvegkd' 'ETAHBWSILRCZNGDVFUMOK' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxczvegkdy' 'ETAHBWSILRCZNGDVFUMOKY' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxczvegkdyu' 'ETAHBWSILRCZNGDVFUMOKYP' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxczvegkdyui' 'ETAHBWSILRCZNGDVFUMOKYPJ' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxczvegkdyuin' 'ETAHBWSILRCZNGDVFUMOKYPJX' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ tr 'ohqbmwajpltsrxczvegkdyuinf' 'ETAHBWSILRCZNGDVFUMOKYPJXQ' <cipher-task1-188> PlainText.txt
+[salman@etisalat-s3 CW1]$ 
